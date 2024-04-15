@@ -1,0 +1,18 @@
+total,19508299
+forward reads,7138989
+forward reads frac,0.3659
+reverse reads,7216236
+reverse reads frac,0.3699
+forward strand fused,913445
+forward strand fused frac,0.0468
+reverse strand fused,858439
+reverse strand fused frac,0.044
+double strand fused,2032549
+double strand fused frac,0.1042
+no polyT,1348641
+no polyT frac,0.0691
+valid pattern,14199649
+valid pattern frac,0.7279
+valid bc,1026570
+valid bc frac,0.5652
+in cells frac,0.0
